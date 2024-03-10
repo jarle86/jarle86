@@ -18,7 +18,7 @@ def guess_number():
             print("Sorry, your guess is incorrect. Try again!")
         a += 1
 
-    print(f"Sorry, your guess is incorrect. The correct numbers are: {target_numbers}")
+    print(f"Sorry, your guess were incorrect. The correct numbers are: {target_numbers}")
 
 # Example usage
 guess_number()
