@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jarle86
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me joaquinjavier@gmail.com
 
 <!---
 jarle86/jarle86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
