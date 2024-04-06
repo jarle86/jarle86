@@ -6,4 +6,6 @@ def my_math (a,b):
 
     print('\n',mult, '\n' ,sum, '\n',rest,'\n',div)
 
-my_math(4,2)  
+if __name__ == "__main__":
+    import sys
+    my_math(int(sys.argv[1,2]))

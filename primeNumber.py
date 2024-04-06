@@ -25,12 +25,3 @@ if not prime_numbers:
     print(f'The list {random_numbers} does not contain prime numbers.')
 else:
     print(f'The prime numbers in the list are: {prime_numbers}')
-
-'''
-Crear un app que sea capaz de determinar que tan fuerte es la contraseña introducida por el usuario
-Recordando que:
-*debe tener una longitud de al menos 8 caractgeres o mas
-*Debe contener al menos una letra mayuscula
-*debe contener al menos unos de los siguiente caracteres !@#$%^&*()><:"{}\/
-*Debe contener numeros
-'''
